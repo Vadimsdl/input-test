@@ -8,3 +8,4 @@ export interface IFile {
 }
 
 export type SortType = "name" | "size" | "type" | "date";
+export type SortDirection = "asc" | "desc";

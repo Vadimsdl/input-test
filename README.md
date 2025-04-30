@@ -31,7 +31,7 @@ src/
    ```
 3. Start the project:
    ```bash
-   npm start
+   npm run start
    ```
    The application will be available at [http://localhost:3000](http://localhost:3000)
 
